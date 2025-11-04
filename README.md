@@ -1,4 +1,4 @@
-# Hindi ASR Fine-Tuning — Whisper Small for Local Dialects
+# Hindi ASR Fine-Tuning Whisper Small for Local Dialects
 
 This project fine-tunes **OpenAI’s Whisper-small** model for **Hindi Automatic Speech Recognition (ASR)**, focusing on **local dialects and conversational speech** that standard datasets don’t cover well.
 
